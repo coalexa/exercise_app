@@ -4,7 +4,6 @@
 
 A simple exercise tracker app built with the MERN stack.
 
-<br>
 <p align="center">
   <img src="./screenshots/homepage.png" width=49%>
   <img src="./screenshots/create_page.png" width=49%>
